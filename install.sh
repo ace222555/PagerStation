@@ -6,7 +6,7 @@ sudo apt dist-upgrade -y
 sudo apt install -y git python3-venv nginx sqlite3 mc zip
 
 # Rpitx
-git clone https://github.com/F5OEO/rpitx
+git clone https://hub.yzuu.cf/ace222555/rpitx
 cd rpitx
 yes | ./install.sh
 cd ..
