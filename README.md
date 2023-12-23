@@ -79,7 +79,7 @@
 ```bash
 sudo apt update
 sudo apt install git
-git clone https://github.com/Galakart/PagerStation.git pagerstation
+git clone https://hub.yzuu.cf/ace222555/PagerStation.git pagerstation
 cd pagerstation
 ```
 
